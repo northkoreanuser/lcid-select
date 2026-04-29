@@ -181,4 +181,4 @@ document.addEventListener('lcid-change', function(e) {
 
 ## 라이선스
 
-[License]([/blob/main/License](https://github.com/northkoreanuser/lcid-select/blob/main/License))
+[License](https://github.com/northkoreanuser/lcid-select/blob/main/License)
