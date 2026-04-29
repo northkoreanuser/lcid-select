@@ -179,6 +179,6 @@ document.addEventListener('lcid-change', function(e) {
 
 ---
 
-## 라이선스 (Unlicense)
+## 라이선스
 
-[/blob/main/License](/blob/main/License)
+[License]([/blob/main/License](https://github.com/northkoreanuser/lcid-select/blob/main/License))
